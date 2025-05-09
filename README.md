@@ -2,13 +2,13 @@
 
 **Goal:** Create a small To Do app with login/logout and add/delete feature using React.
 
-## Instructions
+## Instructions 📖
 
 1. Create a new project by running `npm create vite@latest react-lab-2`.
 2. Recreate the demo video provided: [https://drive.google.com/file/d/1hGbgoY9d3VthCyLLkcT9bX1UB-4A7-qU/view?usp=sharing](https://drive.google.com/file/d/1hGbgoY9d3VthCyLLkcT9bX1UB-4A7-qU/view?usp=sharing)
 3. Commit and push your changes.
 
-## Additional Details
+## Additional Details ✅
 
 - Install `react-router-dom` and create two routes: one for the login page *(/login)* and one for the To Do List page *(/todos)*.
 - Use **context** to store the user's name *(string)* and login status *(boolean)*. Pressing the Login button will update the context and redirect the user to the To Do List page.
